@@ -1,0 +1,3 @@
+def randArrow():
+    randArrow = ['left', 'right', 'down', 'up']
+    print(random.choice(randArrow))
